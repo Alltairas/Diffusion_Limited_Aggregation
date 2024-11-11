@@ -1,0 +1,16 @@
+Ce programme a pour but de générer des agrégats aléatoires et d'obtenir des informations sur eux telles que le rayon de l'agrégat, sa dimension fractale 
+ou le nombre de particules générées.
+
+Dans un premier temps, il sera demandé à l'utilisateur de renseigner la taille de l'espace (un cube) dans lequel l'agrégat va se former.
+
+De base le programme va générer la particule primaire au centre du cube mais il est possible de modifier ça dans le fichier main.cpp en ajoutant plusieurs particules primaires 
+à différents endroits dans le cube.
+
+Le programme s'éxécute et va sortir les informations concernant le rayon maximal de l'agrégat, sa dimension fractale et son nombre de particules générées.
+
+Il aura également créé un fichier texte qui contiendra les coordonnées des particules fixées, le "temps" de formation de l'agrégat et lesvaleurs des rayons.
+
+Pour visualiser l'agrégat, il faut utiliser la commande gnuplot et utiliser ce fichier pour modéliser l'agrégat.
+
+
+

@@ -1,0 +1,37 @@
+
+dimension: 100
+le rayon encerclant l'agregat depuis le particule primaire est 134.469
+la dimension fractale est 1.27516
+le nombre de particule généré lors de notre simulation est 518
+la vitesse de croissance de l'agrégat est 0.00209951
+  
+dimension: 200
+le rayon encerclant l'agregat depuis le particule primaire est 228.974
+la dimension fractale est 1.42491
+le nombre de particule généré lors de notre simulation est 2304
+la vitesse de croissance de l'agrégat est 2.44726e-05
+  
+dimension: 300
+le rayon encerclant l'agregat depuis le particule primaire est 340.577
+la dimension fractale est 1.42292
+le nombre de particule généré lors de notre simulation est 4010
+la vitesse de croissance de l'agrégat est 5.08794e-06
+  
+dimension: 400
+le rayon encerclant l'agregat depuis le particule primaire est 438.244
+la dimension fractale est 1.46955
+le nombre de particule généré lors de notre simulation est 7623
+la vitesse de croissance de l'agrégat est 4.43034e-06
+  
+dimension: 500
+le rayon encerclant l'agregat depuis le particule primaire est 555.498
+la dimension fractale est 1.47966
+le nombre de particule généré lors de notre simulation est 11513
+la vitesse de croissance de l'agrégat est 1.13455e-06
+  
+dimension: 600
+le rayon encerclant l'agregat depuis le particule primaire est 699.706
+la dimension fractale est 1.43051
+le nombre de particule généré lors de notre simulation est 11740
+la vitesse de croissance de l'agrégat est 1.80799e-06
+  
